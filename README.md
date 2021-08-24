@@ -1,4 +1,5 @@
-### Hi there, I'm Jess :woman_technologist:
+### Hi there, I'm Jess :woman_technologist:  
+I'm a glaciologist :snowflake:  
 
 <!-- 
 ## I'm a glaciologist :snowflake:  :ice_cube: and data scientist :abacus:  
@@ -15,9 +16,15 @@
 <a href="www.linkedin.com/in/jzmejia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
-### Lanugages and tools 
+### languages and tools  
+<code><iframe src="https://giphy.com/embed/rlwsRSxR2v6X04cd7L" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Digitaledamer-transparent-rlwsRSxR2v6X04cd7L">via GIPHY</a></p></code>
 
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzmejia&layout=compact&theme=graywhite)](https://github.com/jzmejia/github-readme-stats)
 
 
