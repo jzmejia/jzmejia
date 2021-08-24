@@ -14,10 +14,11 @@ I'm a glaciologist :snowflake:
 <a href="https://twitter.com/moulinology"><img src="https://img.shields.io/badge/twitter-@moulinology-blue?logo=twitter&style=social" /></a><br>
 <a href="https://orcid.org/0000-0002-5489-4711"><img src="https://img.shields.io/badge/orcid-0000--0002--5489--4711-green?logo=orcid"/></a>
 <a href="www.linkedin.com/in/jzmejia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<iframe src="https://giphy.com/embed/rlwsRSxR2v6X04cd7L" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Digitaledamer-transparent-rlwsRSxR2v6X04cd7L"></a></p>
 </p>
 
 ### languages and tools  
-<code><iframe src="https://giphy.com/embed/rlwsRSxR2v6X04cd7L" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Digitaledamer-transparent-rlwsRSxR2v6X04cd7L">via GIPHY</a></p></code>
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
