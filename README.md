@@ -1,5 +1,6 @@
 ### Hi there, I'm Jess :woman_technologist:  
 I'm a glaciologist :snowflake:  
+<img height="200" src="https://media4.giphy.com/media/MswXwiqdwRDSo/giphy.gif?cid=790b76111241ad9d61c8958a12d2fd38e81994ab3889556c&rid=giphy.gif&ct=g">
 
 <!-- 
 ## I'm a glaciologist :snowflake:  :ice_cube: and data scientist :abacus:  
@@ -13,24 +14,28 @@ I'm a glaciologist :snowflake:
 <br><b> Connect with me </b><br>
 <a href="https://twitter.com/moulinology"><img src="https://img.shields.io/badge/twitter-@moulinology-blue?logo=twitter&style=social" /></a><br>
 <a href="https://orcid.org/0000-0002-5489-4711"><img src="https://img.shields.io/badge/orcid-0000--0002--5489--4711-green?logo=orcid"/></a>
-<a href="www.linkedin.com/in/jzmejia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<iframe src="https://giphy.com/embed/rlwsRSxR2v6X04cd7L" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Digitaledamer-transparent-rlwsRSxR2v6X04cd7L"></a></p>
+<a href="www.linkedin.com/in/jzmejia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a><br>
+
+
 </p>
 
-### languages and tools  
 
 
+
+### <img src="https://media2.giphy.com/media/2wW4ESTnavhypLsb4l/giphy.gif?cid=790b7611559f63446c8132ed092069cea184a75a1d6d143a&rid=giphy.gif&ct=s" width="100"> what i've been using lately..
+
+<!-- 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzmejia&layout=compact&theme=graywhite)](https://github.com/jzmejia/github-readme-stats)
 
 
 
-
+### a bit more about me
 ```js
 const name = 'Jessica Mejia';  
 document.write("Hello World");
