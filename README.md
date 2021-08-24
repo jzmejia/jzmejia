@@ -1,26 +1,24 @@
 ### Hi there, I'm Jess :woman_technologist:
 
-
+<!-- 
 ## I'm a glaciologist :snowflake:  :ice_cube: and data scientist :abacus:  
 - I'm currently working on a [crevasse propagation model](https://github.com/jzmejia/crevasse_propagation)
-- 
+-  -->
 
 
 
 
-
-### Connect with me
-----
-[<img src="https://img.shields.io/badge/twitter-@moulinology-blue?logo=twitter" />](https://twitter.com/moulinology)
-<img src="https://img.shields.io/badge/orcid-0000--0002--5489--4711-green?logo=orcid&endpoint?url=https://orcid.org/0000-0002-5489-4711" />  
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/jzmejia)  
+<p align="center">
+<br><b> Connect with me </b><br>
+<a href="https://twitter.com/moulinology"><img src="https://img.shields.io/badge/twitter-@moulinology-blue?logo=twitter&style=social" /></a><br>
+<a href="https://orcid.org/0000-0002-5489-4711"><img src="https://img.shields.io/badge/orcid-0000--0002--5489--4711-green?logo=orcid"/></a>
+<a href="www.linkedin.com/in/jzmejia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ### Lanugages and tools 
----
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzmejia&layout=compact&theme=solarized-light)](https://github.com/jzmejia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzmejia&layout=compact&theme=graywhite)](https://github.com/jzmejia/github-readme-stats)
 
 
 
