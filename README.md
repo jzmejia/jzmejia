@@ -22,7 +22,9 @@ I'm a glaciologist :snowflake:
 
 
 
-<!-- ### <img src="https://media2.giphy.com/media/2wW4ESTnavhypLsb4l/giphy.gif?cid=790b7611559f63446c8132ed092069cea184a75a1d6d143a&rid=giphy.gif&ct=s" width="100"> what i've been using lately..  
+### <img src="https://media2.giphy.com/media/2wW4ESTnavhypLsb4l/giphy.gif?cid=790b7611559f63446c8132ed092069cea184a75a1d6d143a&rid=giphy.gif&ct=s" width="100"> what i've been using lately.. 
+
+<!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
