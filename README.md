@@ -68,7 +68,12 @@ while(dev.isCoding() && dev.isStuck())
 
 ### Workspaces
 
-![image](https://img.shields.io/badge/Apple-MacBook_Pro_2016-999999?style=for-the-badge&logo=apple&logoColor=white)
+ ![image](https://img.shields.io/badge/Apple-iMac_2021-999999?style=for-the-badge&logo=apple&logoColor=white)  ![image](https://img.shields.io/badge/apple%20silicon-M1-333333?style=for-the-badge&logo=apple&logoColor=white)
+<!-- ![image](https://img.shields.io/badge/Apple-MacBook_Pro_2016-999999?style=for-the-badge&logo=apple&logoColor=white)   -->
+ 
+ 
+
+
 
 
 
