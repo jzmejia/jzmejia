@@ -14,7 +14,7 @@ I'm a glaciologist :snowflake:
 <br><b> Connect with me </b><br>
 <a href="https://twitter.com/moulinology"><img src="https://img.shields.io/badge/twitter-@moulinology-blue?logo=twitter&style=social" /></a><br>
 <a href="https://orcid.org/0000-0002-5489-4711"><img src="https://img.shields.io/badge/orcid-0000--0002--5489--4711-green?logo=orcid"/></a>
-<a href="www.linkedin.com/in/jzmejia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a><br>
+<a href="https://www.linkedin.com/in/jzmejia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a><br>
 
 
 </p>
